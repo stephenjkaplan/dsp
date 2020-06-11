@@ -36,7 +36,7 @@ print('Observed mean', pmf_biased.Mean())
 ```
 The resulting plot is:
 
-![plot](/images/bias.png)
+![plot](dsp/lessons/statistics/images/bias.png)
 
 The actual mean is `1.0242` and the biased mean is `2.4037`.
 
