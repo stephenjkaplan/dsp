@@ -34,6 +34,11 @@ print('Actual mean', pmf.Mean())
 print('Observed mean', pmf_biased.Mean())
 
 ```
+The resulting plot is:
+
+![plot](/images/bias.png)
+
+The actual mean is `1.0242` and the biased mean is `2.4037`.
 
 Assuming you are surveying children under 18 about their families,
 the biased (observed) mean is higher than the actual mean for the number of
