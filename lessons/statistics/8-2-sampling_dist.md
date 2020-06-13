@@ -73,7 +73,7 @@ plt.show()
 Standard error decreases as sample size increases. This relationship is plotted
 below:
 
-<img src="images/sampling_distribution_lambda.png" />
+<img src="images/standard_error_vs_sample_size.png" />
 
 The 90% confidence intervals for each sample size `n` are:
 
